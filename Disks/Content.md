@@ -4,7 +4,7 @@ Disk A:
 
 - Installer
 - Initial save game
-- Program code (including item data)
+- Program code (including item data, ingame messages)
 
 Disk B:
 
